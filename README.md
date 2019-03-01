@@ -11,7 +11,7 @@ Run Payroll.java
 Note: The txt file will be generated when Boss/User Logs out.
 
 # Reflections
-This was a 3 weeks Project built during 3rd Sem (Fall 2018) semester. Goal of the Projects included:
+This was a 3 weeks Project built during 2nd Sem (Fall 2018) semester. Goal of the Projects included:
 1. To use an object file for storing Employee details (File based database).
 2. To use exceptions and write an exception handler.
 3. To implement OOPS concept (Inheritance, Polymorphism, Abstraction)
